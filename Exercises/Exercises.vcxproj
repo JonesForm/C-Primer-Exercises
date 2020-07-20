@@ -140,7 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exercise-1-1.cpp" />
+    <ClCompile Include="Exercise-1-10.cpp" />
+    <ClCompile Include="Exercise-1-11.cpp" />
     <ClCompile Include="Exercise-1-2.cpp" />
+    <ClCompile Include="Exercise-1-3.cpp" />
+    <ClCompile Include="Exercise-1-4.cpp" />
+    <ClCompile Include="Exercise-1-5.cpp" />
+    <ClCompile Include="Exercise-1-6.cpp" />
+    <ClCompile Include="Exercise-1-7.cpp" />
+    <ClCompile Include="Exercise-1-8.cpp" />
+    <ClCompile Include="Exercise-1-9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
